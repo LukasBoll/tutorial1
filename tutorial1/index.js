@@ -1,6 +1,3 @@
-//TODO: Say Hello World
-console.log("Hello Wo");
-
 //TODO implement bubblesort
 export function bubbleSort(arr) {
   /*var len = arr.length;
